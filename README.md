@@ -16,6 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository to your local machine.
 
     SSH: `git@github.com:krystianszacho/DevsData.git`
+
     HTTPS: 'https://github.com/krystianszacho/DevsData.git'
 2. Navigate to the project directory.
 3. Run `fin init` to initialize the Docksal environment.
