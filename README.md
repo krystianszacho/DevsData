@@ -27,6 +27,10 @@ Navigate to the application directory:
 
 `cd var/www`
 
+Run update composer to update autoload
+
+`fin exec composer update`
+
 Run the application with the following command:
 
 `fin exec php app.php input.txt`
